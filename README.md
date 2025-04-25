@@ -23,3 +23,4 @@
 muda a porra do linkedin
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:cescate.rafael@gmail.com)
+arrumar o redirecionamento para o gmail

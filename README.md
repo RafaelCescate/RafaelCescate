@@ -1,8 +1,8 @@
 
 <h1 align="left">Rafael Cescate</h1>
 
-- 🎓 Estudando Engenharia de Software
-- 👨‍💻 Aprendendo HTML, CSS, JavaScript
+-  Estudando Engenharia de Software-UniCesumar
+-  Aprendendo HTML, CSS, JavaScript
 
 ### Linguagens e Soffware
 

@@ -19,4 +19,4 @@
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cescate)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cescate.rafael@gmail.com&su=ASSUNTO&body=MENSAGEM)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cescate.rafael@gmail.com&su=&body=)
